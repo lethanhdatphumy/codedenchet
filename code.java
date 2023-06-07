@@ -61,6 +61,7 @@ public class code {
         int first_num = sc.nextInt();
         int second_num = sc.nextInt();
         sum(first_num, second_num);
+        sub(first_num, second_num);
         array();
 
     }
