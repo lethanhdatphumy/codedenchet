@@ -52,7 +52,9 @@ public class code {
         System.out.println("this is the result after applying selection sort: " + my_array[len - 1]);
 
     }
-
+    static void sub(int first_num, int second_num){
+        System.out.println("Sub: "+ (first_num-second_num));
+    }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
